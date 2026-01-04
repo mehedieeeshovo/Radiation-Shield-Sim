@@ -12,13 +12,13 @@ ShieldPy allows engineers to model multilayered shields using high-attenuability
 * **Interactive Visualization:** Real-time decay curves and shielding efficiency percentages.
 * **Mass Analysis:** Provides area-density calculations ($g/cm^2$) for weight-sensitive applications (aerospace/medical).
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python 3.10+
 * **Interface:** [Streamlit](https://streamlit.io/)
 * **Data Analysis:** Pandas, NumPy
 * **Visuals:** Plotly Interactive Graphs
 
-## 📖 How to Run Locally
+##  How to Run Locally
 1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/ShieldPy.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Launch the app: `streamlit run app.py`
